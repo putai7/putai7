@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @putai7
+- 👋 Hi, I’m sandan
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on various projects
